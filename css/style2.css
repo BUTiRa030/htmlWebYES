@@ -1,0 +1,16 @@
+#menu {
+	float: left;
+	margin: 10px 100px 0 100px;
+	font-size: 1.4em;
+}
+
+#menu li {
+    display: inline;
+    margin: 0 10px 0 10px;
+}
+
+#menu li a {
+    color: #000;
+    text-decoration: none;
+    background: none;
+}
