@@ -1,3 +1,16 @@
 body{
-    background-color: aqua;
+    background-color: #106BC0;
+}
+h3,h4{
+    color: aliceblue;
+}
+header,footer{
+    padding: 10px;
+    background-color: rgb(183, 255, 255);
+}
+.titleBar{
+    background: linear-gradient(to bottom, #106BC0, #00BFFF);
+}
+footer{
+    text-align: center;
 }
