@@ -11,6 +11,29 @@ header,footer{
 .titleBar{
     background: linear-gradient(to bottom, #106BC0, #00BFFF);
 }
+article{
+    background-color: rgb(248, 250, 250);
+    padding: 10px;
+}
 footer{
     text-align: center;
+    color: rgb(233, 234, 235);
+    background-color: rgb(55, 146, 226);
+}
+.title{
+    color: rgb(55, 146, 226);
+}
+#mainContent{
+    padding: 10px;
+}
+
+#secondaryContent{
+    background-color: rgb(183, 255, 255);
+    border: 1px solid rgb(146, 202, 202);
+    margin: 10px;
+    padding: 10px;
+}
+#tertiaryContent{
+    margin: 25px;
+    padding: 10px;
 }
